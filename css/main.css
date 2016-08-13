@@ -47,8 +47,8 @@ body {
   width: 156px; 
   height: 90px;
   /*display: none;*/
-  top: 0px;
-  left: 0px;
+  top: 150px;
+  left: 450px;
   float: left;
   position: absolute;
   z-index: 10;
